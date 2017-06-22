@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Salary Calculator</string>
+    <string name="category">Select Category</string>
+    <string name="dearness_allowance_132">Dearness allowance 132% : </string>
+    <string name="dearness_allowance_143">Dearness allowance 143% :</string>
+    <string name="additional_dearness_allowance">Special dearness allowance 5% : </string>
+    <string name="interim_relief">Interim relief : </string>
+    <string name="gross_salary">Gross Salary : </string>
+    <string name="special_allowance">Special allowance 15%(BASIC + DA) : </string>
+    <string name="additional_allowance">Additional allowance 10%(fixed) : </string>
+    <string name="contributory_deduction">Contributory Deduction 10% : </string>
+    <string name="total_salary">Total Salary : </string>
+    <string name="handicap_allowance">Handicap allowance</string>
+    <string name="grade_pay">Grade pay : </string>
+    <string name="basic_pay">Basic pay</string>
+    <string name="net_pay">Net pay : </string>
+
+    <string name="category_one">Category 1</string>
+    <string name="category_two">Category 2</string>
+    <string name="category_three">Category 3</string>
+    <string name="under_eight">Less then 8 years</string>
+    <string name="above_eight">Above 8 years</string>
+
+    <string-array name="category_array">
+        <item>Category 1</item>
+        <item>Category 2</item>
+        <item>Category 3</item>
+    </string-array>
+</resources>
